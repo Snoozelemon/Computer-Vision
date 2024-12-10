@@ -1,1 +1,4 @@
-# Computer-Vision
+# Template Matching (Multi-Scale, Rotation Invariant Approach) & Working on Object Detection using YOLOV5 Learning model.
+
+This project, therefore, deals with working on object detection techniques using the YOLOv5 and template matching algorithms in finding objects within complicated images. The main objective is the improvement of object detection within difficult scenes owing to multi-scale variations, rotation, and various orientations of objects. It combines a strong pre-trained YOLOv5 model with high state-of-the-art template matching methods for rotation invariance and multi-scale adaptability. In addition, some optimization techniques in the field of realtime object detection and occlusion handling are investigated. A complete solution is given to effectively recognize objects in diverse and complicated environments. The results reflect
+the effectiveness of the combined approach between traditional computer vision methods and modern deep learning techniques that may often present challenges in most real-world applications
